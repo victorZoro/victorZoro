@@ -1,18 +1,24 @@
-<img align="right" height="590em" src="[https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg](https://raw.githubusercontent.com/gist/victorZoro/0a3bfe93e9f2b66596d01b27d709b81c/raw/cc3f37722b1517455755501f104e6ecdf10e770b/githubcard.svg)"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Victor Gabriel</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+---
+<img align="right" height="1080em" src="https://raw.githubusercontent.com/gist/victorZoro/2f5f93cb5967eb64ac84374e9870916a/raw/3147615cc6d4f1a8980b8b5f32fc4e5302554d27/githubcard.svg"/>
 
-<!--
-**victorZoro/victorZoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Olá <img src="https://github.com/victorZoro/victorZoro/blob/main/waving_teams.gif?raw=true" height="30px">, Eu sou o Victor Gabriel</h1>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorZoro&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente sou um **estudante** de Ensino Técnico Integrado em Informática no CEFET-MG Campus Contagem.
+
+- 🌱 Atualmente estou estudando **PHP**, **Java**, **Python** e estou reforçando **HTML**, **CSS** e **JavaScript**.
+
+- 🌳 O que eu já estudei até agora é **HTML**, **CSS**, **JavaScript**, **C**, **C++**, **MySQL** e um pouco sobre **Eletrônica Digital**.
+
+- ⚡ Já trabalhei alguns anos da minha vida como **Designer Gráfico** e atualmente estou buscando aprender mais sobre **Web Design**.
+
+- 🤔 Pretendo cursar **Ciências da Computação** e seguir na área como desenvolvedor front-end.
+
+- 💬 Eu gosto bastante de animes e mangás no geral, especialmente One Piece e Dragon Ball.
+
+- 📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com .
+
+<div>
+  <a href="github.com/victorZoro">
+</div>
