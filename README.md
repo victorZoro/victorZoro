@@ -10,7 +10,7 @@
 
 - 🌱 Atualmente estou estudando **PHP**, **Java**, **Python** e estou reforçando **HTML**, **CSS** e **JavaScript**.
 
-- 🌳 O que eu já estudei até agora é **HTML**, **CSS**, **JavaScript**, **C**, **C++**, **MySQL** e um pouco sobre **Eletrônica Digital**.
+- 🌳 O que eu já estudei até agora é **HTML**, **CSS**, **JavaScript**, **C**, **C++**, **MySQL**.
 
 - ⚡ Já trabalhei alguns anos da minha vida como **Designer Gráfico** e atualmente estou buscando aprender mais sobre **Web Design**.
 
