@@ -1,7 +1,7 @@
 ---
 
 
-<img align="right" height="540em" src="https://raw.githubusercontent.com/gist/victorZoro/2f5f93cb5967eb64ac84374e9870916a/raw/3147615cc6d4f1a8980b8b5f32fc4e5302554d27/githubcard.svg"/>
+<!-- <img align="right" height="540em" src="https://raw.githubusercontent.com/gist/victorZoro/2f5f93cb5967eb64ac84374e9870916a/raw/3147615cc6d4f1a8980b8b5f32fc4e5302554d27/githubcard.svg"/> -->
 
 <h1 align="left">Olá <img src="https://github.com/victorZoro/victorZoro/blob/main/waving_teams.gif?raw=true" height="30px">, Eu sou o Victor Gabriel</h1>
 
