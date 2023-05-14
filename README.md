@@ -2,8 +2,8 @@
 
 <div align="center">
   <img align="" width="90%" src="https://raw.githubusercontent.com/gist/victorZoro/0756b891469d9da038acd56a0947a662/raw/29bf7b049d8b05fa1d17b994f9489f3d419276ab/githubcardhorizontal.svg"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorZoro&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Victor Gabriel's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorZoro&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Victor Gabriel's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
 - 🔭 Atualmente sou um **estudante** de Ensino Técnico Integrado em Informática no CEFET-MG Campus Contagem.
@@ -14,11 +14,14 @@
 
 - ⚡ Já trabalhei alguns anos da minha vida como **Designer Gráfico** e atualmente estou buscando aprender mais sobre **Web Design**.
 
+- ⚡ Sou **Diretor de Comunicações** do **Grêmio Estudantil** do meu Campus.
+
 - 🤔 Pretendo cursar **Ciências da Computação** e seguir na área como desenvolvedor front-end.
 
 - 💬 Eu gosto bastante de animes e mangás no geral, especialmente One Piece e Dragon Ball.
 
 - 📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com
+-
 
 <h2 align="center"> 💻 Quais SO eu já usei? </h2>
 <div align="center">
@@ -57,6 +60,18 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
+</div>
+
+<h2 align="center"> ⚒️ No que estou trabalhando atualmente? </h2>
+
+<div align="center">
+  <a href="https://www.instagram.com/gremiocefetcontagem/">
+    <img src="https://img.shields.io/badge/Gr%C3%AAmio%20CEFET%20Contagem-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gremiocefetcont">
+    <img src="https://img.shields.io/badge/Gr%C3%AAmio%20CEFET%20Contagem-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorZoro&repo=dubium&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
 <h2 align="center"> 🎨 Ferramentas que eu utilizo... </h2>
