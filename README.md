@@ -5,6 +5,11 @@
 
 <h1 align="left">Olá <img src="https://github.com/victorZoro/victorZoro/blob/main/waving_teams.gif?raw=true" height="30px">, Eu sou o Victor Gabriel</h1>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorZoro&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Victor Gabriel's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+</div>
+
 - 🔭 Atualmente sou um **estudante** de Ensino Técnico Integrado em Informática no CEFET-MG Campus Contagem.
 
 - 🌱 Atualmente estou estudando **PHP**, **Java**, **Python** e estou reforçando **HTML**, **CSS** e **JavaScript**.
@@ -48,12 +53,10 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href="#">
-  <img align="center" height="216px" src="https://github-readme-stats.vercel.app/api?username=victorZoro&show_icons=true&theme=transparent&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-</a>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorZoro&theme=tokyo-night)
+
+
+
 
 
 
