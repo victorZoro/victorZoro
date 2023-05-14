@@ -70,7 +70,10 @@
   <a href="https://twitter.com/gremiocefetcont">
     <img src="https://img.shields.io/badge/Gr%C3%AAmio%20CEFET%20Contagem-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a><br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorZoro&repo=dubium&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  
+  <a href="https://github.com/victorZoro/dubium">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorZoro&repo=dubium&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  </a>
 </div>
 
 <h2 align="center"> 🎨 Ferramentas que eu utilizo... </h2>
