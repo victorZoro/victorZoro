@@ -1,6 +1,6 @@
-<img align="center" width="100%" src="https://raw.githubusercontent.com/gist/victorZoro/867f5ec1ddc52d1dc78afa8ca9786baa/raw/f94433761ef451adf18adaa96196538a62da843c/githubcardhorizontal.svg"/>
-
 <h1 align="left">Olá <img src="https://github.com/victorZoro/victorZoro/blob/main/waving_teams.gif?raw=true" height="30px">, Eu sou o Victor Gabriel</h1>
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/gist/victorZoro/867f5ec1ddc52d1dc78afa8ca9786baa/raw/f94433761ef451adf18adaa96196538a62da843c/githubcardhorizontal.svg"/>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorZoro&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Victor Gabriel's GitHub Stats" /> 
