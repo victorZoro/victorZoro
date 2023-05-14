@@ -21,7 +21,6 @@
 - 💬 Eu gosto bastante de animes e mangás no geral, especialmente One Piece e Dragon Ball.
 
 - 📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com
--
 
 <h2 align="center"> 💻 Quais SO eu já usei? </h2>
 <div align="center">
