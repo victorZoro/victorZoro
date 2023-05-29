@@ -87,8 +87,6 @@
   
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorZoro&theme=tokyo-night)
-
 
 
 
