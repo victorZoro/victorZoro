@@ -70,10 +70,21 @@
   <a href="https://twitter.com/gremiocefetcont">
     <img src="https://img.shields.io/badge/Gr%C3%AAmio%20CEFET%20Contagem-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a><br>
+
+  <div align="center">
+    <a href="https://github.com/Lusca1236/fis_pratica_potencial_eletrico">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Lusca1236&repo=fis_pratica_potencial_eletrico&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    </a> 
+    <a href="https://github.com/victorZoro/neocontra.grupolaz.lp2">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=victorZoro&repo=neocontra.grupolaz.lp2&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    </a>
+    <a href="https://github.com/victorZoro/dubium">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=victorZoro&repo=dubium&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+    </a>
+  </div>
+
   
-  <a href="https://github.com/victorZoro/dubium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorZoro&repo=dubium&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-  </a>
+
 </div>
 
 <h2 align="center"> 🎨 Ferramentas que eu utilizo... </h2>
@@ -81,9 +92,12 @@
 <div align="center">
   
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   
 </div>
 
