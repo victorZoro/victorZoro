@@ -6,21 +6,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
-- 🔭 Atualmente sou um **estudante** de Ensino Técnico Integrado em Informática no CEFET-MG Campus Contagem.
+🔭 Atualmente sou um estudante de Ensino Técnico Integrado em Informática no CEFET-MG Campus Contagem.
 
-- 🌱 Atualmente estou estudando **PHP**, **Java**, **Python** e estou reforçando **HTML**, **CSS** e **JavaScript**.
+🌱 Atualmente estou estudando sobre React, NextJS, NodeJS e C#.
 
-- 🌳 O que eu já estudei até agora é **HTML**, **CSS**, **JavaScript**, **C**, **C++**, **MySQL**.
+🌳 O que eu já estudei até agora: HTML, CSS, JavaScript, C, C++, PHP, Java, Python e MySQL.
 
-- ⚡ Já trabalhei alguns anos da minha vida como **Designer Gráfico** e atualmente estou buscando aprender mais sobre **Web Design**.
+⚡ Já trabalhei como Designer Gráfico por 5 anos e atualmente estou buscando aprender mais sobre Web Design.
 
-- ⚡ Sou **Diretor de Comunicações** do **Grêmio Estudantil** do meu Campus.
+⚡ Sou Diretor de Comunicações do Grêmio Estudantil do meu Campus.
 
-- 🤔 Pretendo cursar **Ciências da Computação** e seguir na área como desenvolvedor front-end.
+🤔 Pretendo cursar Ciências da Computação e seguir como desenvolvedor.
 
-- 💬 Eu gosto bastante de animes e mangás no geral, especialmente One Piece e Dragon Ball.
-
-- 📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com
+📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com
 
 <h2 align="center"> 💻 Quais SO eu já usei? </h2>
 <div align="center">
