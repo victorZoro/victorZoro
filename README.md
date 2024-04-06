@@ -14,7 +14,7 @@
 
 ⚡ Já trabalhei como Designer Gráfico por 5 anos e atualmente estou buscando aprender mais sobre Engenharia de Software.
 
-⚡ Sou Diretor de Comunicações do Grêmio Estudantil do meu Campus.
+📖 Sou um técnico em informática formado pelo CEFET-MG Campus Contagem.
 
 🤔 Pretendo cursar Ciências da Computação.
 
