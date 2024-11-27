@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://github.com/victorZoro/victorZoro/blob/main/waving_teams.gif?raw=true" height="30px">, Eu sou o Victor Gabriel</h1>
 
 <div align="center">
-  <img align="" width="90%" src="https://gist.githubusercontent.com/victorZoro/0756b891469d9da038acd56a0947a662/raw/b4684e427a5ced457c85c185dc399dec420bf416/githubcardhorizontal.svg"/>
+  <img align="" width="90%" src="https://gist.github.com/victorZoro/8557e0a8035238ffd16ff17a790c7b86"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorZoro&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Victor Gabriel's GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
