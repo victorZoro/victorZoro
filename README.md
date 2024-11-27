@@ -6,9 +6,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
-🔭 Atualmente sou estagiário na empresa Expert Code Software.
+🔭 Atualmente sou Desenvolvedor Backend na empresa Expert Code Software.
 
-🌱 Atualmente estou estudando sobre React, React Native, Angular, React, Node, Go e Java.
+🌱 Atualmente estou estudando, especialmente, Java, Kotlin e SpringBoot.
 
 🌳 O que eu já estudei até agora: HTML, CSS, JavaScript, C, C++, PHP, Java, Python e MySQL.
 
