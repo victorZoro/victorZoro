@@ -12,11 +12,9 @@
 
 🌳 O que eu já estudei até agora: HTML, CSS, JavaScript, C, C++, PHP, Java, Python e MySQL.
 
-⚡ Já trabalhei como Designer Gráfico por 5 anos e atualmente estou buscando aprender mais sobre Engenharia de Software.
-
 📖 Sou um técnico em informática formado pelo CEFET-MG Campus Contagem.
 
-🤔 Pretendo cursar Ciências da Computação.
+🤔 Buscando cursar Sistemas de Informação na Universidade Federal de Ouro Preto.
 
 📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com
 
