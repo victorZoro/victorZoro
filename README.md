@@ -6,15 +6,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorZoro&layout=compact&hide_border=true&bg_color=0d1117&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
-🔭 Atualmente sou Desenvolvedor Backend na empresa Expert Code Software.
+🔭 Atualmente sou Desenvolvedor Backend na empresa Expert Code Software ([Perfil Corporativo](https://github.com/victor-mariano)).
 
-🌱 Atualmente estou estudando, especialmente, Java, Kotlin e SpringBoot.
-
-🌳 O que eu já estudei até agora: HTML, CSS, JavaScript, C, C++, PHP, Java, Python e MySQL.
+🌱 Atualmente estou me especializando Java, Kotlin e SpringBoot.
 
 📖 Sou um técnico em informática formado pelo CEFET-MG Campus Contagem.
 
-🤔 Buscando cursar Sistemas de Informação na Universidade Federal de Ouro Preto.
+🤔 Sou estudante de Sistemas de Informação na Universidade Federal de Ouro Preto.
 
 📫 Entre em contato comigo por e-mail: victorgabmariano@gmail.com
 
